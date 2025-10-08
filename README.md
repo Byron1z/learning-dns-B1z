@@ -11,7 +11,7 @@ In this lab, we will experiment with DNS using the Active Directory Lab. This la
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - DNS Manager
-- Powershell
+- PowerShell
 
 <h2>Operating Systems Used</h2>
 
