@@ -240,6 +240,16 @@ However, CNAMEs might still be used for:
   - Non-AD-related web services hosted internally or externally
 </p>
 <br />
+
+---
+
+## 🚀 What to Learn from DNS 
+- How to create and test **A-records** and **CNAME records** in Active Directory DNS.  
+- How **Local DNS cache** can retain outdated records and how to flush it.  
+- Hands-on troubleshooting with **ping, nslookup, and ipconfig**.  
+- Reinforced real-world system administration tasks that are critical in enterprise IT.  
+
+---
 <h3>Conclusion</h3>
 <p>
   This lab provided an overview of DNS (Domain Name System) using Active Directory Setup.
