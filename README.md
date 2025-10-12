@@ -244,7 +244,7 @@ However, CNAMEs might still be used for:
 ---
 
 ## 🚀 What to Learn from DNS 
-- How to create and test **A-records** and **CNAME records** in Active Directory DNS.  
+- How to create and test **A-Records** and **CNAME records** in Active Directory DNS.  
 - How **Local DNS cache** can retain outdated records and how to flush it.  
 - Hands-on troubleshooting with **ping, nslookup, and ipconfig**.  
 - Reinforced real-world system administration tasks that are critical in enterprise IT.  
