@@ -6,7 +6,7 @@
 
 In this lab, we will experiment with **DNS** using the **Active Directory Lab**. This lab will help us have a better understanding of DNS.
 
-The lab will demonstrate how to configure and test the DNS records inside the Active Directory Domain hosted on Microsoft Azure, with the 2 VMs of
+The lab will demonstrate how to configure and test the **DNS Records** inside the **Active Directory Domain** hosted on Microsoft Azure, with the 2 VMs of
 
 - DC-1 → Windows Server Domain Controller (mydomain.com)
 - Client-1 → Windows 10 Pro Domain-joined client PC
@@ -198,6 +198,7 @@ The lab will demonstrate how to configure and test the DNS records inside the Ac
 </p>
 <h4>Summarize</h4>
 <p>
+  
   A CNAME record (Canonical Name record) in a DNS server is used to alias one domain name to another. In simpler terms, it tells DNS resolvers:
 
   - “This domain is just another name for that other domain.”
@@ -211,7 +212,8 @@ The lab will demonstrate how to configure and test the DNS records inside the Ac
   If you change the IP address of the canonical domain, you only need to update the A-record of that domain. All CNAMEs pointing to it will automatically follow the change — no need to update multiple A-records.
   
   <br />
-  ❗ Important Rules & Limitations:
+  
+  ❗ **Important Rules & Limitations:**
 
   | ⚠️ Rule / Limitation                        | Explanation                                                                  |
 | ------------------------------------------- | ---------------------------------------------------------------------------- |
