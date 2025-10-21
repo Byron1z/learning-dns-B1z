@@ -71,7 +71,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 <p>
   An A-Record (Address Record) in DNS (Domain Name System) is a type of DNS record that maps a domain name to an IPv4 address.
 
-  💡 Notes:
+  💡 📝 Notes:
   
   - A-Records only support IPv4 addresses.
   - For IPv6, there's a similar record called an AAAA Record.
