@@ -21,10 +21,10 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 - PowerShell
 - Command-line Tools | ping, nslookup, ipconfig 
 
-<h2>Operating Systems Used</h2>
+<h2>💻 Operating Systems Used</h2>
 
-- Windows Server (22H2)
-- Windows 10 Pro (22H2)
+- **Windows Server (22H2)**
+- **Windows 10 Pro (22H2)**
 
 <h2>List of Prerequisites</h2>
 
