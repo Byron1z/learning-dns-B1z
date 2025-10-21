@@ -28,8 +28,8 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 
 <h2>List of Prerequisites</h2>
 
-- Active Directory Lab (Client & Windows Server)
-- Client Machine joined the Domain
+- **Active Directory Lab (Client & Windows Server)**
+- **Client Machine joined the Domain**
 <br />
 
 <h3>A-Record exercise</h3>
