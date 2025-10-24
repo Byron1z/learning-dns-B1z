@@ -20,6 +20,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 - DNS Manager / DNS Management Console
 - PowerShell
 - Command-line Tools | **ping, nslookup, ipconfig** 
+<br />
 
 <h2>💻 Operating Systems Used</h2>
 
