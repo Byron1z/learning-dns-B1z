@@ -177,7 +177,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 </p>
 <br />
 
-<h3>CNAME Record exercise</h3>
+<h3>🟢 CNAME Record exercise</h3>
 <p>
   13. Go back to DC-1 and create a CNAME record that points the host “search” to “www.google.com”.
 </p>
