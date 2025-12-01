@@ -135,11 +135,11 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
   
   This shows why the `ipconfig /flush` command is good to use. If someone in the organization can’t access the same resources as everyone else, it may have something to do with the DNS and Local Cache. 
   
-  It would be best to try refreshing or updating the DNS cache. 
+  It would be best to try refreshing or updating the DNS cache ✅️. 
 </p>
 <h4>Summarize</h4>
 <p>
-  The local DNS cache on a DNS server (or client) is used to temporarily store DNS query results so that future requests for the same domain can be resolved more quickly without querying external DNS servers again.
+  The local DNS cache on a DNS server (or Client) is used to temporarily store DNS query results so that future requests for the same domain can be resolved more quickly without querying external DNS servers again.
 
   A DNS server's local cache can contain/store:
   | Record Type | Purpose                            |
