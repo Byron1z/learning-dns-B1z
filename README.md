@@ -48,11 +48,12 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
   <img src="https://i.imgur.com/hEK8bjk.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  When the computer tries to interact with any host’s name on the Network, whether it's browsing to it or trying to ping it, the computer will first check its Local DNS cache,
+
+  When the computer tries to interact with any host’s name on the Network, whether it's browsing to it or trying to ping it, the computer will first check its **Local DNS cache**,
   
-  - If it’s not found, then it will check its Local Host File, 
+  - If it’s not found, then it will check its **Local Host File**, 
   
-  - If it’s not found there, then it will check its DNS Server as a **last resort**.
+  - If it’s not found there, then it will check its **DNS Server** as a **last resort**.
 
   Therefore, it appears that the name “mainframe” is not found in any of these three.  
 </p>
