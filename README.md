@@ -82,7 +82,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 </p>
 <br />
 
-<h3>Local DNS Cache exercise</h3>
+<h3>🟦 Local DNS Cache exercise</h3>
 <p>
   7. Go back to DC-1 and change the "mainframe's" A-Record to the IP address (8.8.8.8).
 </p>
