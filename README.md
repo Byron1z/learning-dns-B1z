@@ -33,7 +33,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 - **Client Machine joined the Domain**
 <br />
 
-<h3>A-Record exercise</h3>
+<h3>🔵 A-Record exercise</h3>
 <p>
   
   1. Connect/log into DC-1 as your Domain Admin account, `mydomain.com\jane_admin`
@@ -72,7 +72,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 </p>
 <p>
 
-  An **A-Record** (**Address Record**) in DNS (Domain Name System) is a type of DNS record that maps a domain name to an IPv4 address.
+  An **A-Record** (**Address Record**) in DNS (Domain Name System) is a type of DNS record that maps a Domain Name to an IPv4 address.
 
   💡 📝 Notes:
   
