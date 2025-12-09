@@ -30,7 +30,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 <h2>List of Prerequisites</h2>
 
 - **Active Directory setup (Client & Windows Server)**
-- **Client Machine joined the Domain**
+- **Client Machine joined to the Domain**
 <br />
 
 <h3>🔵 A-Record exercise</h3>
