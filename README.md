@@ -137,7 +137,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
   
   It would be best to try refreshing or updating the DNS cache ✅️. 
 </p>
-<h4>Summarize</h4>
+<h4>🔹️ Summarize</h4>
 <p>
   The local DNS cache on a DNS server (or Client) is used to temporarily store DNS query results so that future requests for the same domain can be resolved more quickly without querying external DNS servers again.
 
@@ -199,7 +199,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 <p>
   <img src="https://i.imgur.com/2At9LqL.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
-<h4>Summarize</h4>
+<h4>🔹️ Summarize</h4>
 <p>
   
   A CNAME record (Canonical Name record) in a DNS server is used to alias one domain name to another. In simpler terms, it tells DNS resolvers:
