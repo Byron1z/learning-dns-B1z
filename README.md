@@ -58,6 +58,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
   Therefore, it appears that the name “mainframe” is not found in any of these three.  
 </p>
 <p>
+
   5. Go to 🔹️ **DNS Manager** on DC-1, and create a DNS A-record on DC-1 for “mainframe” and have it point to DC-1’s Private IP address (10.0.0.4).
 </p>
 <p>
