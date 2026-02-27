@@ -78,7 +78,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
   💡 📝 Notes:
   
   - A-Records only support IPv4 addresses.
-  - For IPv6, there's a similar record called an **AAAA Record**.
+  - For **IPv6**, there's a similar record called an **AAAA Record**.
   - A Domain can have multiple A-Records pointing to different IPs for load balancing or redundancy.
 </p>
 <br />
