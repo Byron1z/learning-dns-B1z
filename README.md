@@ -17,7 +17,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - **Windows Server** (**Domain Controller** & **DNS Server**)
-- **DNS Manager / DNS Management Console**
+- **DNS Manager | DNS Management Console**
 - PowerShell
 - Command-line Tools | **ping, nslookup, ipconfig** 
 <br />
