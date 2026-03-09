@@ -136,7 +136,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 </p>
 <p>
   
-  This shows why the `ipconfig /flush` command is good to use. If someone in the organization can’t access the same resources as everyone else, it may have something to do with the DNS and Local Cache. 
+  This shows why the `ipconfig /flushdns` command is good to use. If someone in the organization can’t access the same resources as everyone else, it may have something to do with the DNS and Local Cache. 
   
   It would be best to try refreshing or updating the DNS cache ✅️. 
 </p>
