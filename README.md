@@ -64,6 +64,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
   5. Go to 🔹️ **DNS Manager** on DC-1, and create a DNS A-record on DC-1 for “mainframe” and have it point to DC-1’s Private IP address (10.0.0.4).
 </p>
 <p>
+  <img src="https://i.imgur.com/Kx9k6Z0.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/xkjOzEw.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
   <img src="https://i.imgur.com/bCHACop.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
