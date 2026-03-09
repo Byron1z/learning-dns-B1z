@@ -162,11 +162,11 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
   2. The DNS server queries the authoritative server and caches:
       - "example.com", A, 93.184.216.34, TTL = 3600
   3. Another user asks for "example.com" within the hour.
-  4. DNS server responds from its local cache instantly.
+  4. DNS server responds from its local cache instantly✅️.
   <br />
   🧹 Cache Maintenance:
 
-  - Cached entries expire after TTL (Time to Live).
+  - Cached entries expire after **TTL** (Time to Live).
   - Admins (and Users) can manually flush the cache if needed (e.g., after DNS changes):
       - `ipconfig /flushdns`          - Windows (client)
       - `Clear-DnsServerCache`        - PowerShell (DNS Server)
