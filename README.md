@@ -207,7 +207,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
   
   A **CNAME** record (**Canonical Name record**) in a DNS server is used to alias one domain name to another. In simpler terms, it tells DNS resolvers:
 
-  - “This domain is just another name for that other domain.”
+  - “This domain is just another name for that other domain.” or "**1 Human readable name to another Human readable name."**
   
   ✅ 1. Alias One Domain to Another
   
