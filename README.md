@@ -51,7 +51,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 </p>
 <p>
 
-  When the computer tries to interact with any host’s name on the Network, whether it's browsing to it or trying to ping it, the computer will first check its **Local DNS cache** (Stored in Memory),
+  When the computer tries to interact with any host’s name on the Network, whether it's browsing to it or trying to ping it, the computer will first check its **Local DNS cache** (*Stored in Memory*) for Speed,
   
   - If it’s not found, then it will check its **Local Host File**, 
   
