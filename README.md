@@ -166,7 +166,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
   <br />
   🧹 Cache Maintenance:
 
-  - Cached entries expire after **TTL** (Time to Live).
+  - Cached entries expire after **TTL** (**Time to Live**).
   - Admins (and Users) can manually flush the cache if needed (e.g., after DNS changes):
       - `ipconfig /flushdns`          - Windows (client)
       - `Clear-DnsServerCache`        - PowerShell (DNS Server)
