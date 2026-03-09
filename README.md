@@ -55,7 +55,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
   
   - If it’s not found, then it will check its **Local Host File**, 
   
-  - If it’s not found there, then it will check its **DNS Server** as a **last resort**.
+  - If it’s not found there, then it will check its **DNS Server** as a **last resort**, also the slowest.
 
   Therefore, it appears that the name “mainframe” is not found in any of these three.  
 </p>
