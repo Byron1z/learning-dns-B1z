@@ -11,7 +11,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 - **DC-1** → Windows Server Domain Controller **("mydomain.com")**
 - **Client-1** → Windows 10 Pro Domain-joined client PC
 
-The DNS Server can be Integrated with Active Directory & automatically get installed with ADDS.
+The DNS Server can be Integrated with Active Directory & automatically get installed with ADDS on the Windows Server.
 <br />
 
 <h2>Environments and Technologies Used</h2>
