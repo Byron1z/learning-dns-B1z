@@ -184,7 +184,7 @@ The lab will demonstrate how to configure and test the **DNS Records** inside th
 <h3>🟦 CNAME Record exercise</h3>
 <p>
 
-  13. Go back to DC-1 and create a CNAME record that points the host “**search**” to “**www.google.com**”.
+  13. Go back to DC-1 and create a CNAME record that points the host “**search**” to **“www.google.com”**.
 </p>
 <p>
  <img src="https://i.imgur.com/gIB8cEA.png" height="90%" width="100%" alt="Disk Sanitization Steps"/>
